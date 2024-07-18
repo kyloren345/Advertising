@@ -461,3 +461,15 @@ footer {
   bottom: -1500px;
   width: 100%;
 }
+
+.petition a {
+  text-decoration: none;
+  color: black;
+  font-style: italic;
+}
+
+.petition {
+  position: fixed;
+  top: 2480px;
+  left: 670px;
+}
